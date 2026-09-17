@@ -1,0 +1,13 @@
+# Carpetas de compilación de Maven
+/target/
+
+# Archivos internos de NetBeans
+/nbproject/private/
+/build/
+nbproject/
+
+# Archivos de configuración locales e IDEs comunes
+.idea/
+.vscode/
+*.class
+*.jar
